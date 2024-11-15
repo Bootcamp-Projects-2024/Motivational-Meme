@@ -20,4 +20,4 @@ This project features a motivational meme web page, created with HTML and CSS, t
 
 ## Live Preview
 
-![Motivational Meme Preview](https://bootcamp-projects-2024.github.io/Motivational-Meme/) 
+![Motivational Meme Website](https://bootcamp-projects-2024.github.io/Motivational-Meme/) 
