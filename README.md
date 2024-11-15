@@ -18,8 +18,6 @@ This project features a motivational meme web page, created with HTML and CSS, t
 1. Clone or download the repository.
 2. Open `index.html` in your browser to view the motivational meme.
 
-## Preview
+## Live Preview
 
-Check out a preview below:
-
-![Motivational Meme Preview](link-to-screenshot.png) <!-- Add a link to your screenshot image here -->
+![Motivational Meme Preview](https://bootcamp-projects-2024.github.io/Motivational-Meme/) 
